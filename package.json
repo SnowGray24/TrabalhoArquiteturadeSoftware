@@ -1,0 +1,14 @@
+{
+  "name": "trabalho2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev src/Main.ts --transpile-only --ignore-watch node_modules"
+  },
+  "dependencies": {
+    "ts-md5": "^1.2.9",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.4.2"
+  }
+}
